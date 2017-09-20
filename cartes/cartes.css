@@ -1,0 +1,48 @@
+﻿body{
+	color: #CC0033;
+	background-color: #339900;
+}
+
+span{
+	display: block;
+}
+
+.contour{
+	width: 110px;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	background: #fff;
+	color: #cc0033;
+	border: 0px solid black;
+	box-shadow: 1px 1px 3px #000;
+	-moz-box-shadow: 1px 1px 3px #000;
+	-webkit-box-shadow: 1px 1px 3px #000;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.haut{
+	text-align: left;
+}
+
+.bas{
+	text-align: right;
+}
+
+.hautv{
+	color: #fff;
+}
+
+.basv{
+	color: #fff;
+}
+
+#interieur{
+	background-color: blue;
+}
+
+#h{
+	color: #fff;
+}
